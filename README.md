@@ -1,5 +1,7 @@
 # Connect Four Game
 
-Connect Four is a game played on a grid, 7 wide by 6 deep, with two players, 1 (red) and 2 (blue). The players alternate turns, dropping a piece of their color in the top of a column. The piece will fall down to the further-down unoccupied slot.
-
-The game is won when a player makes four in a row (horizontally, vertically, or diagonally). The game is a tie if the entire board fills up without a winner.
+Players must connect 4 of the same colored discs in a row to win.
+Only one piece is played at a time.
+Players can be on the offensive or defensive.
+The game ends when there is a 4-in-a-row or a stalemate.
+The starter of the previous game goes second on the next game.
